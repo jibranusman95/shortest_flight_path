@@ -1,4 +1,4 @@
-# shortest_flight_path
+# Shortest Flight Path
 Shortest path for connecting flights with cost
 
 ```# Input format
